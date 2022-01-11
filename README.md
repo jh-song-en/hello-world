@@ -50,8 +50,25 @@ The platform is consist of the logbook tab, search tab, upload tab, manage tab, 
 Through the logbook tab and upload tab, user can upload the substrate sample information and characterization data generated through the high-throughput experiments, and search the sample of interest using the search tab. The detailed manual of each tab are described below.
 
 ## Installation
+You can download the zip file from [here](https://drive.google.com/file/d/11zWNDuqk0mUYsL3SLR472Ki0bt27lCgK/view?usp=sharing)
+
+    download AMMD_DB_Platform.zip file to your device, and unzip the file.
+    Open AMMD_DB_Platform.exe.
+	
+![image](https://user-images.githubusercontent.com/72897259/148879324-e619fdf5-d089-48c6-8572-222d7dcf70b5.png)
+
+
 ## Manual
 ### Login and Server setting
+
+	Press the server setting button and set the server as your server setting. If you installed the server in the same computer, the host will be localhost or 127.0.0.1.
+	Press the Save button, and login with the id generated from the AMMD DB initiator
+
+Discription about the id generation are [here](https://github.com/jh-song-en/AMMD_DB/blob/master/README.md#user-management)
+
+![image](https://user-images.githubusercontent.com/72897259/148879474-7d398da0-fb10-46c0-828d-15b30091e2c5.png)
+
+
 ### Logbook tab
 ![image](https://user-images.githubusercontent.com/72897259/147438029-6f7dc468-3ef1-4e16-bd87-d967824efe68.png)
 
