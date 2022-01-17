@@ -49,7 +49,7 @@ The platform is consist of the logbook tab, search tab, upload tab, manage tab, 
 Through the logbook tab and upload tab, user can upload the substrate sample information and characterization data generated through the high-throughput experiments, and search the sample of interest using the search tab. The detailed manual of each tab are described below.
 
 ## Installation
-You can download the zip file from [here](https://drive.google.com/file/d/11zWNDuqk0mUYsL3SLR472Ki0bt27lCgK/view?usp=sharing)
+You can download the zip file from [here](https://drive.google.com/file/d/1ev7F_GvSoLW-SfkFEn2idv8Deidbp05j/view?usp=sharing)
 
     download AMMD_DB_Platform.zip file to your device, and unzip the file.
     Open AMMD_DB_Platform.exe.
