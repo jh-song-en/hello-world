@@ -125,3 +125,6 @@ By double-clicking the rows of the ```search outcome table```, stored data can b
 
 ![image](https://user-images.githubusercontent.com/72897259/149838600-d562ed27-9f60-436a-9092-b9ebaff5a84e.png)
 
+Result window shows the information of the selected sample from the search tab.
+Characterized data are shown with the deposition condition. The metadata can be modified by edit buttons, and data can be downloaded or deleted in this window.
+Only manager user can delete the data or the whole sample data.
