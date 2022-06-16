@@ -1,10 +1,10 @@
-# AMMD DB and Platform Manual
+# TFDMP GUI Manual
 
 ## Content
 1. [Intorduction](#introduction)
     1. [Motivation](#motivation)
-    2. [AMMD DB](#ammd-db)
-    3. [AMMD DB Platform](#ammd-db-platform)
+    2. [TFDMP](#ammd-db)
+    3. [TFMDP GUI](#ammd-db-platform)
 2. [Installation](#installation)
 3. [Manual](#manual)
     1. [Login & Server setting](#login-and-server-setting)
