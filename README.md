@@ -128,3 +128,38 @@ By double-clicking the rows of the ```search outcome table```, stored data can b
 Result window shows the information of the selected sample from the search tab.
 Characterized data are shown with the deposition condition. The metadata can be modified by edit buttons, and data can be downloaded or deleted in this window.
 Only manager user can delete the data or the whole sample data.
+
+### Property manage tab
+
+![image](https://github.com/jh-song-en/hello-world/assets/72897259/abcff656-690a-4873-84fe-dd34a2a4b48d)
+
+The metadata columns, datatype, and data format of the characterization process that is registered on the server can be managed, and a new characterization process can be added to the database server through the manage tab. 
+
+
+![image](https://github.com/jh-song-en/hello-world/assets/72897259/089f4b7f-ed79-4f59-aee7-55bd868b08e2)
+
+ The display text edits the displayed description of the metadata entry edit, and the input class and combo list manage the type of the edit and list of the combo box edits. SQL columns and SQL datatype columns decide the column name and data type of each metadata value. 
+
+ To add new property data, 
+![image](https://github.com/jh-song-en/hello-world/assets/72897259/b6f9d105-312f-42d2-8f05-1a5f009db240)
+
+ 	Click manager button
+  	Click property manage button
+
+![image](https://github.com/jh-song-en/hello-world/assets/72897259/9d59c8be-8b9c-4769-8755-4f3dce185db9)
+
+	Click Add New DB button
+ 	Type the name of the new property and click Ok button
+
+![image](https://github.com/jh-song-en/hello-world/assets/72897259/e6e38a41-bbd3-43cb-be6f-268548c4413a)
+
+The addition of new data types involves specifying the metadata categories for the experimental conditions and the data type (whether it is a natural number, integer, or text data), along with entering the file extension for storing the corresponding property data. The platform automatically recognizes only those files with the specified extension, streamlining the setup process. Once configured within the platform, the Database automatically generates the necessary DB table and folder for the new type of data, ready to store the incoming information. 
+
+Input Class column:
+
+	Line Edit: Simple input field for entering single-line text or numeric data.
+	ComboBox: Input widget with a text field and a dropdown list of selectable items, offering a combination of predefined options and user-input flexibility.
+
+The information about the SQL datatype can be found here:
+
+	https://www.w3schools.com/sql/sql_datatypes.asp
